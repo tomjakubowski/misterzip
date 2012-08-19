@@ -27,7 +27,7 @@ request is accessible at `/misterzip/letter`.
     "subject": "Greetings.",
     "message": "Hello, world!",
     "email": "dennis.ritchie@example.com",
-    "name": "Dennis Ritchie",
+    "name": "Dennis Ritchie"
 }
 ```
 
@@ -38,7 +38,7 @@ request is accessible at `/misterzip/letter`.
     "subject": "Greetings.",
     "message": "Hello, world!",
     "email": "dennis.ritchie@example.com",
-    "name": "Dennis Ritchie",
+    "name": "Dennis Ritchie"
 }
 ```
 
