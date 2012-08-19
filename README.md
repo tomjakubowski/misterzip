@@ -20,6 +20,8 @@ request is accessible at `/misterzip/letter`.
 
     POST /letter
 
+Delivers an email to the configured recipient address.
+
 ### Input
 
 ```json
